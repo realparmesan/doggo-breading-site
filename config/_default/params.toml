@@ -1,9 +1,9 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/favicon.png"
+favicon = "images/mahiapups.jpeg"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/logo.png"
-logo_darkmode = "images/logo-darkmode.png"
+logo = "images/mahiapups-logo.png"
+logo_darkmode = "images/mahiapups-logodark.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Hugoplate"
+logo_text = "Mahia Pups"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -22,12 +22,12 @@ mainSections = ["blog"]
 # contact form action
 contact_form_action = "#" # contact form works with [https://airform.io/] or [https://formspree.io]
 # google tag manager, see https://developers.google.com/tag-manager/
-google_tag_manager = "" # example: G-XXXXXXXXXX
+google_tag_manager = "G-ZMKMBMGJ9W" # example: G-XXXXXXXXXX
 google_adsense = ""     # example: ca-pub-xxxxxxxxxxxxxxxx
 # custom script on header, example: custom_script= "<script>console.log(\"Hello World\")</script>"
 custom_script = ""
 # copyright
-copyright = "Designed & Developed by [Zeon Studio](https://zeon.studio)"
+copyright = "Website Developed by Chris Chester"
 
 # Preloader
 # preloader module: https://github.com/gethugothemes/hugo-modules/tree/master/components/preloader
@@ -38,7 +38,7 @@ preloader = "" # use jpg, png, svg or gif format.
 # Navigation button
 [navigation_button]
 enable = true
-label = "get a quote"
+label = "get in touch"
 link = "contact"
 
 # search
@@ -56,9 +56,9 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
+keywords = ["Dogs", "Breeder"]
+description = "Mahia Dog Breeders"
+author = "chris.chester"
 image = "images/og-image.png"
 
 
