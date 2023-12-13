@@ -8,26 +8,55 @@ description: "This is meta description"
 draft: false
 ---
 
-#### Responsibility of Contributors
+# Terms and Conditions
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Effective Date: 2023-12-14
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+## 1. Acceptance of Terms
 
-#### Gathering of Personal Information
+By accessing and using Mahia Pups, you agree to comply with and be bound by the following terms and conditions. If you do not agree with any part of these terms, please do not use our website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+## 2. Use of the Website
 
-#### Protection of Personal- Information
+2.1. **User Eligibility**: You must be at least 18 years old to use this website.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+2.2. **Account Registration**: Some features of the website may require account registration. You are responsible for maintaining the confidentiality of your account information.
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+## 3. User Conduct
 
-#### Privacy Policy Changes
+3.1. **Prohibited Activities**: You agree not to engage in any prohibited activities, including but not limited to:
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+- Violating any applicable laws or regulations.
+- Transmitting any harmful code, viruses, or disruptive content.
+- Unauthorized access to our systems or user accounts.
+
+3.2. **Content Submission**: When submitting content to the website, you grant [Your Company Name] a non-exclusive, worldwide, royalty-free license to use, reproduce, modify, and distribute the content.
+
+## 4. Intellectual Property
+
+4.1. **Ownership**: All content and materials on the website, including text, images, logos, and trademarks, are the property of  Mahia Pups and are protected by intellectual property laws.
+
+4.2. **Limited License**: You are granted a limited, non-exclusive license to access and use the website for personal and non-commercial purposes.
+
+## 5. Privacy Policy
+
+By using our website, you agree to our [Privacy Policy](/privacy-policy).
+
+## 6. Limitation of Liability
+
+6.1. **Disclaimer**: Mahia Pups makes no warranties or representations about the accuracy or completeness of the content on the website.
+
+6.2. **Limitation of Liability**: Mahia Pups is not liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your use of the website.
+
+## 7. Changes to Terms and Conditions
+
+We reserve the right to update these terms and conditions at any time. Changes will be effective immediately upon posting.
+
+## 8. Governing Law
+
+These terms and conditions are governed by the laws of New Zealand. Any disputes arising from or in connection with these terms shall be resolved through arbitration.
+
+## 9. Contact Us
+
+If you have any questions or concerns about these terms and conditions, please [contact us](/contact).
+
