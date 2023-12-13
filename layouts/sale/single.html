@@ -14,13 +14,6 @@
           </h1>
           <ul class="mb-4">
             <li class="mr-4 inline-block">
-              <a
-                href="{{ `authors/` | relLangURL }}{{ .Params.Author | urlize }}/">
-                <i class="fa-regular fa-circle-user mr-2"></i
-                >{{ .Params.author }}
-              </a>
-            </li>
-            <li class="mr-4 inline-block">
               <i class="fa-regular fa-folder mr-2"></i>
               {{ $categories:= .Params.categories }}
               {{ range $i,$p:= $categories }}
@@ -34,8 +27,10 @@
               {{ end }}
             </li>
             <li class="mr-4 inline-block">
+              {{ $diff := now.Sub (time .Params.birth) }}
+              {{ $months := div (div $diff.Hours 24) 30 }}
               <i class="fa-regular fa-clock mr-2"></i>
-              {{ time.Format ":date_long" .PublishDate }}
+              {{ math.Floor $months }} Months
             </li>
           </ul>
           <div class="content mb-10">

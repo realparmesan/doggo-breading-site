@@ -13,12 +13,6 @@ name = "Dogs"
 hasChildren = true
 
 [[main]]
-name = "About"
-url = "about/"
-weight = 3
-
-
-[[main]]
 parent = "Dogs"
 name = "For Sale"
 url = "sale"
