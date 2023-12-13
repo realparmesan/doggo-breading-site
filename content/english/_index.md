@@ -16,7 +16,7 @@ features:
     content: "Mahia Pups proves top of the line care and quality"
     bulletpoints:
       - "Top quality breedine lines"
-      - "Dog live in amazing scenaric"
+      - "Dog live in amazing scenary"
     button:
       enable: false
       label: "Get Started Now"
