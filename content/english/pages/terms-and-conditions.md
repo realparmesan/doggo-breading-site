@@ -14,7 +14,7 @@ Effective Date: 2023-12-14
 
 ## 1. Acceptance of Terms
 
-By accessing and using Mahia Pups, you agree to comply with and be bound by the following terms and conditions. If you do not agree with any part of these terms, please do not use our website.
+By accessing and using Kabana Kennels, you agree to comply with and be bound by the following terms and conditions. If you do not agree with any part of these terms, please do not use our website.
 
 ## 2. Use of the Website
 
@@ -34,7 +34,7 @@ By accessing and using Mahia Pups, you agree to comply with and be bound by the 
 
 ## 4. Intellectual Property
 
-4.1. **Ownership**: All content and materials on the website, including text, images, logos, and trademarks, are the property of  Mahia Pups and are protected by intellectual property laws.
+4.1. **Ownership**: All content and materials on the website, including text, images, logos, and trademarks, are the property of  Kabana Kennels and are protected by intellectual property laws.
 
 4.2. **Limited License**: You are granted a limited, non-exclusive license to access and use the website for personal and non-commercial purposes.
 
@@ -44,9 +44,9 @@ By using our website, you agree to our [Privacy Policy](/privacy-policy).
 
 ## 6. Limitation of Liability
 
-6.1. **Disclaimer**: Mahia Pups makes no warranties or representations about the accuracy or completeness of the content on the website.
+6.1. **Disclaimer**: Kabana Kennels makes no warranties or representations about the accuracy or completeness of the content on the website.
 
-6.2. **Limitation of Liability**: Mahia Pups is not liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your use of the website.
+6.2. **Limitation of Liability**: Kabana Kennels is not liable for any direct, indirect, incidental, consequential, or punitive damages arising out of your use of the website.
 
 ## 7. Changes to Terms and Conditions
 

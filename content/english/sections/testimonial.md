@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "What Adopters Say About Mahia Pups"
-description: "Don't just take our word for it - hear from some of our satisfied adopters! Check out some of our testimonials below to see what others are saying about Mahia Pups."
+title: "What Adopters Say About Kabana Kennels"
+description: "Don't just take our word for it - hear from some of our satisfied adopters! Check out some of our testimonials below to see what others are saying about Kabana Kennels."
 
 # Testimonials
 testimonials:

@@ -1,9 +1,9 @@
 #################### default parameters ################################
 # favicon module: https://github.com/gethugothemes/hugo-modules/tree/master/images#favicon-implementation
-favicon = "images/mahiapups.jpeg"
+favicon = "images/kkennels-icon.png"
 # logo module: https://github.com/gethugothemes/hugo-modules/tree/master/images#logo-implementation
-logo = "images/mahiapups-logo.png"
-logo_darkmode = "images/mahiapups-logodark.png"
+logo = "images/kkennels-logo.png"
+logo_darkmode = "images/kkennels-logodark.png"
 # use `px` or `x` with logo_width, example: "100px".
 # Note: logo_width is not work with .svg file
 logo_width = "160px"
@@ -11,7 +11,7 @@ logo_height = "32px"
 # if logo_webp set false, will not generate WEBP version of logo | default is true
 logo_webp = true
 # logo text will only show when logo is missing.
-logo_text = "Mahia Pups"
+logo_text = "Kabana Kennels"
 # navbar fixed to top
 navbar_fixed = true
 # theme-mode
@@ -57,7 +57,7 @@ show_categories = true
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
 keywords = ["Dogs", "Breeder"]
-description = "Mahia Dog Breeders"
+description = "Kabana Kennels Dog Breeders"
 author = "chris.chester"
 image = "images/og-image.png"
 

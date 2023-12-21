@@ -13,7 +13,7 @@ banner:
 features:
   - title: "What we provide"
     image: "/images/golden-pups.png"
-    content: "Mahia Pups proves top of the line care and quality"
+    content: "Kabana Kennels proves top of the line care and quality"
     bulletpoints:
       - "Top quality breedine lines"
       - "Dog live in amazing scenary"

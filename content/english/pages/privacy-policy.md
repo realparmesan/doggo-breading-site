@@ -12,7 +12,7 @@ draft: false
 
 Effective Date: 2023-12-14
 
-Thank you for visiting Mahia Pups. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our website.
+Thank you for visiting Kabana Kennels. This Privacy Policy outlines how we collect, use, and protect your personal information when you use our website.
 
 ## Information We Collect
 Contact Form: When you use the contact form on our website to inquire about purchasing dogs, we collect the following information:
