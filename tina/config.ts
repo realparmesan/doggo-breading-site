@@ -1,5 +1,5 @@
 import { defineConfig } from "tinacms";
-import Post from "./collections/post";
+import Sale from "./collections/sale";
 
 export default defineConfig({
   clientId: process.env.TINA_CLIENT_ID!,
@@ -14,11 +14,11 @@ export default defineConfig({
   },
   media: {
     tina: {
-      mediaRoot: "assets/images",
+      mediaRoot: "assets/images/",
       publicFolder: "static",
     },
   },
   schema: {
-    collections: [Post],
+    collections: [Sale],
   },
 });

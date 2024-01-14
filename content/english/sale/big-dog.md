@@ -11,6 +11,6 @@ draft: false
 
 Lovely Dog
 
-## Creative Design
+## Some text
 
 Big dog
