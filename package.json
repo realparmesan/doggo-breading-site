@@ -1,26 +1,27 @@
 {
   "name": "KabanaKennels",
-  "description": "Website for Kabana Kennels Breeders",
+  "description": "Website for Kabana Kennels",
   "version": "1.0.0",
   "license": "MIT",
   "author": "Chris Chester",
   "scripts": {
-    "dev": "hugo server",
-    "build": "hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview": "hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "dev:example": "cd exampleSite; hugo server",
-    "build:example": "cd exampleSite; hugo --gc --minify --templateMetrics --templateMetricsHints --forceSyncStatic",
-    "preview:example": "cd exampleSite; hugo server --disableFastRender --navigateToChanged --templateMetrics --templateMetricsHints --watch --forceSyncStatic -e production --minify",
-    "update-modules": "node ./scripts/clearModules.js && hugo mod clean --all && hugo mod get -u ./... && hugo mod tidy",
-    "remove-darkmode": "node ./scripts/removeDarkmode.js && yarn format",
-    "project-setup": "node ./scripts/projectSetup.js",
-    "theme-setup": "node ./scripts/themeSetup.js",
-    "format": "prettier -w ."
+    "start": "run-p start:**",
+    "start:hugo": "hugo -d ./dist -vw",
+    "start:tina": "yarn run tinacms dev",
+    "preview": "cross-env PORT=8080 run-p preview:**",
+    "preview:hugo": "hugo -d ./dist -s site -vw -D -F ",
+    "build": "yarn run build:tina && yarn run build:hugo",
+    "build:tina": "yarn tinacms build",
+    "build:preview": "yarn run build:webpack && yarn run build:hugo:preview",
+    "build:hugo": "hugo -d ./dist -v -b $URL",
+    "build:hugo:preview": "yarn run build:hugo -- -D -F"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
     "@tailwindcss/forms": "^0.5.7",
     "@tailwindcss/typography": "^0.5.10",
+    "@tinacms/cli": "^1.5.39",
+    "@types/node": "^20.11.0",
     "autoprefixer": "^10.4.16",
     "postcss": "^8.4.31",
     "postcss-cli": "^10.1.0",
@@ -28,6 +29,10 @@
     "prettier-plugin-go-template": "0.0.15",
     "prettier-plugin-tailwindcss": "^0.5.7",
     "tailwind-bootstrap-grid": "^5.0.1",
-    "tailwindcss": "^3.3.5"
+    "tailwindcss": "^3.3.5",
+    "tinacms": "^1.5.28"
+  },
+  "dependencies": {
+    "npm-run-all": "^4.1.5"
   }
 }
