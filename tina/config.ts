@@ -1,6 +1,7 @@
 import { defineConfig } from "tinacms";
 import Sale from "./collections/sale";
 import Fostering from "./collections/fostering";
+import Homepage from "./collections/homepage";
 
 export default defineConfig({
   clientId: process.env.TINA_CLIENT_ID!,
@@ -20,6 +21,6 @@ export default defineConfig({
     },
   },
   schema: {
-    collections: [Sale, Fostering],
+    collections: [Sale, Fostering, Homepage],
   },
 });
