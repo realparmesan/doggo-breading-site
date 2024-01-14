@@ -5,16 +5,9 @@
   "license": "MIT",
   "author": "Chris Chester",
   "scripts": {
-    "start": "run-p start:**",
-    "start:hugo": "hugo -d ./dist -vw",
-    "start:tina": "yarn run tinacms dev",
-    "preview": "cross-env PORT=8080 run-p preview:**",
-    "preview:hugo": "hugo -d ./dist -s site -vw -D -F ",
-    "build": "yarn run build:tina && yarn run build:hugo",
-    "build:tina": "yarn tinacms build",
-    "build:preview": "yarn run build:webpack && yarn run build:hugo:preview",
-    "build:hugo": "hugo -d ./dist -v -b $URL",
-    "build:hugo:preview": "yarn run build:hugo -- -D -F"
+    "dev": "tinacms dev -c \"hugo server -D\"",
+    "build": "tinacms build && hugo",
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "devDependencies": {
     "@fullhuman/postcss-purgecss": "^5.0.0",
