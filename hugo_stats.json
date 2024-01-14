@@ -38,7 +38,6 @@
       "ol",
       "p",
       "path",
-      "picture",
       "polygon",
       "pre",
       "script",
@@ -121,10 +120,7 @@
       "form-input",
       "form-label",
       "from-body",
-      "gallery",
-      "gallery-item",
       "gallery-slider",
-      "glightbox",
       "group",
       "gx-5",
       "h-4",
@@ -319,8 +315,7 @@
       "xl:space-x-8",
       "z-10",
       "z-30",
-      "z-50",
-      "zoomable"
+      "z-50"
     ],
     "ids": [
       "1-acceptance-of-terms",
@@ -346,7 +341,6 @@
       "did-you-come-here-for-something-in-particular",
       "email",
       "emphasis",
-      "fostering",
       "gallery",
       "heading-1",
       "heading-2",
