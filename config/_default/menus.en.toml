@@ -18,11 +18,6 @@ name = "For Sale"
 url = "sale"
 
 [[main]]
-parent = "Dogs"
-name = "Fostering"
-url = "fostering"
-
-[[main]]
 name = "Contact"
 url = "contact/"
 weight = 4
