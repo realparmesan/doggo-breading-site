@@ -1,12 +1,10 @@
 ---
-title: "Fostering"
-# meta title
-meta_title: ""
-# meta description
-description: "Forstering dogs from Kabana Kennels"
-# save as draft
-draft: false
+meta_title: ''
+title: Fostering
+description: Forstering dogs from Kabana Kennels
+draft: true
 ---
 
 # Fostering
+
 Info about fostering pups
