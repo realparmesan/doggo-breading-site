@@ -15,7 +15,7 @@ features:
     content: Kabana Kennels proves top of the line care and quality
     image: /images/312244476_2400452980121071_3031482424269999733_n.jpg
     bulletpoints:
-      - Top quality breedine lines
+      - Top quality breeding lines
       - Dog live in amazing scenary
     button:
       label: Get Started Now
