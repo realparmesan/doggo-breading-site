@@ -52,8 +52,14 @@
                 {{ end }}
               </ul>
             </div>
-            <div class="lg:col-4 flex items-center">
-              {{ partial "social-share" (dict "Context" . "Class" "share-icons" "Title" (i18n "share") "Whatsapp" false "Telegram" false) }}
+            <div class="lg:col-4">
+                <li class="mt-4 inline-block lg">
+                  <a
+                    class="btn btn-primary btn-sm"
+                    href="{{ site.Params.navigation_button.link | relLangURL }}">
+                    Get in touch about {{.Params.Title}}
+                  </a>
+                </li>
             </div>
           </div>
           <!-- comments -->
