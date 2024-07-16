@@ -56,7 +56,8 @@ show_categories = true
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Dogs", "Breeder"]
+keywords = ["Dogs", "Breeder", "Abbey Pogan", "Red Golden Retriever", "Dark Golden Retriever", "Golden Retriever Breeder NZ", "Fieldline Retriever", "Fieldline Retriever New Zealand",
+"English Springer Spaniel", "Tri Colour English Springer Spaniel", "English Springer Spaniel Breeder New Zealand", "Brittany Breeder NZ", "French Brittany", "French Brittany Breeder", "Mahia Beach"]
 description = "Kabana Kennels Dog Breeders"
 author = "chris.chester"
 image = "images/og-image.png"
