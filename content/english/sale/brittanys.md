@@ -1,8 +1,11 @@
 ---
-title: Red Golden Retrievers
-image: /images/417699142_2755701091237192_5298814016471500504_n.jpg
+title: Brittany’s
+image: /images/312244476_2400452980121071_3031482424269999733_n.jpg
 birth: 2023-12-26T11:00:00.000Z
-description: Red Golden Retrievers available now!!
+description: Brittany’s available now!!
+categories:
+  - Brittany’s
+  - ''
 ---
 
 ## New Pups
