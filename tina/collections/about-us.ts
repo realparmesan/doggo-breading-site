@@ -1,9 +1,9 @@
 import { Collection } from "tinacms";
 
-const Fostering: Collection = {
-  name: "fostering",
-  label: "Fostering Page",
-  path: "content/english/fostering",
+const AboutUs: Collection = {
+  name: "contact",
+  label: "About and Contact Page",
+  path: "content/english/contact",
   ui:{
     allowedActions: {
       create: false,
@@ -19,15 +19,6 @@ const Fostering: Collection = {
       required: true,
     },
     {
-      type: "string",
-      label: "Short description",
-      name: "description",
-      required: true,
-      ui: {
-        component: "textarea",
-      },
-    },
-    {
       type: "boolean",
       name: "draft",
       label: "Draft",
@@ -41,4 +32,4 @@ const Fostering: Collection = {
   ],
 };
 
-export default Fostering;
+export default AboutUs;

@@ -10,23 +10,19 @@ weight = 1
 [[main]]
 weight = 2
 name = "Dogs"
-hasChildren = true
-
-[[main]]
-parent = "Dogs"
-name = "For Sale"
 url = "sale"
 
 [[main]]
-name = "Contact"
+weight = 3
+name = "Gallery"
+url = "gallery"
+
+[[main]]
+name = "About Us/Apply For A Puppy"
 url = "contact/"
 weight = 4
 
 # footer menu
-[[footer]]
-name = "About"
-url = "about/"
-weight = 1
 
 [[footer]]
 name = "Privacy Policy"

@@ -1,6 +1,6 @@
 import { defineConfig } from "tinacms";
 import Sale from "./collections/sale";
-import Fostering from "./collections/fostering";
+import AboutUs from "./collections/about-us";
 import Homepage from "./collections/homepage";
 import References from "./collections/references";
 
@@ -22,6 +22,6 @@ export default defineConfig({
     },
   },
   schema: {
-    collections: [Sale, Fostering, Homepage, References],
+    collections: [Homepage, References, Sale, AboutUs,],
   },
 });
