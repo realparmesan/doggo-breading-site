@@ -3,6 +3,8 @@ import Sale from "./collections/sale";
 import AboutUs from "./collections/about-us";
 import Homepage from "./collections/homepage";
 import References from "./collections/references";
+import Gallery from "./collections/gallery";
+
 
 export default defineConfig({
   clientId: process.env.TINA_CLIENT_ID!,
@@ -22,6 +24,6 @@ export default defineConfig({
     },
   },
   schema: {
-    collections: [Homepage, References, Sale, AboutUs,],
+    collections: [Homepage, References, Sale, Gallery, AboutUs,],
   },
 });
