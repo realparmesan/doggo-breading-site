@@ -66,6 +66,11 @@ const Homepage: Collection = {
       type: "object",
       name: "features",
       label: "Features",
+      ui: {
+        itemProps: (item) => {
+          return { label: `${item?.title} `}
+        },
+      },
       required: true,
       list: true,
       fields: [
@@ -96,6 +101,11 @@ const Homepage: Collection = {
           type: "object",
           name: "button",
           label: "Button",
+          ui: {
+            itemProps: (item) => {
+              return { label: `${item?.label} `}
+            },
+          },
           required: true,
           fields: [
             {

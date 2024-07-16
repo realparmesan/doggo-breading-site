@@ -38,6 +38,11 @@ const References: Collection = {
       type: "object",
       name: "testimonials",
       label: "Testimonials",
+      ui: {
+        itemProps: (item) => {
+          return { label: `${item?.name}  ( ${item?.designation} ) `}
+        },
+      },
       list: true,
       fields: [
         {
