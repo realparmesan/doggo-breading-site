@@ -3,7 +3,10 @@ import { Collection } from "tinacms";
 const Gallery: Collection = {
   name: "gallery",
   label: "Gallery",
-  path: "content/english/gallery",
+  path: "content/english/sections",
+  match: {
+    include: "*gallery*",
+  },
   ui:{
     allowedActions: {
       create: false,
@@ -19,11 +22,6 @@ const Gallery: Collection = {
       required: true,
     },
     {
-      type: "boolean",
-      name: "draft",
-      label: "Draft",
-    },
-    {
       type: "rich-text",
       name: "body",
       label: "Body",
@@ -31,15 +29,37 @@ const Gallery: Collection = {
     },
     {
       type: "object",
-      name: "gallery",
+      name: "images",
       label: "Gallery",
       list: true,
+      ui: {
+        itemProps: (item) => {
+          return { label: `${item?.name}  ( ${item?.breed} ) `}
+        },
+      },
       fields: [
         {
           type: "string",
           name: "name",
           label: "Name",
           required: true,
+        },
+        {
+          type: "boolean",
+          name: "draft",
+          label: "Draft",
+          required: true,
+        },
+        {
+          type: "string",
+          name: "breed",
+          label: "Breed",
+          required: true,
+        },
+        {
+          type: "string",
+          name: "content",
+          label: "Description",
         },
         {
           type: "image",

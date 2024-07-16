@@ -1,37 +1,32 @@
 ---
 _build:
   render: never
+description: Past and present dogs bread through Kabana Kennels.
 title: Gallery
-description: >-
-  Past and present dogs bread through Kabana Kennels.
 images:
   - name: Marvin McKinney
-    breed: Collie
-    image: /images/avatar-sm.png
-    content: >-
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-      molestias, assumenda expedita commodi inventore non itaque molestiae
-      voluptatum dolore, facilis sapiente, repellat veniam.
+    draft: false
+    breed: Golden
+    content: Colouring and posie
+    image: /images/golden-pup.jpeg
   - name: Marvin McKinney 2
-    breed: Golden
-    image: /images/avatar-sm.png
-    content: >-
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-      molestias, assumenda expedita commodi inventore non itaque molestiae
-      voluptatum dolore, facilis sapiente, repellat veniam.
+    draft: false
+    breed: Collie
+    content: Fast and quick
+    image: /images/417699142_2755701091237192_5298814016471500504_n.jpg
   - name: Marvin McKinney 3
+    draft: false
     breed: Golden
-    image: /images/avatar-sm.png
-    content: >-
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
-      molestias, assumenda expedita commodi inventore non itaque molestiae
-      voluptatum dolore, facilis sapiente, repellat veniam.
+    content: Number 3
+    image: /images/golden-pups.png
   - name: Marvin McKinney 4
+    draft: false
     breed: Springer
-    image: /images/avatar-sm.png
     content: >-
       Lorem ipsum dolor sit amet consectetur adipisicing elit. Qui iusto illo
       molestias, assumenda expedita commodi inventore non itaque molestiae
       voluptatum dolore, facilis sapiente, repellat veniam.
+    image: /images/312244476_2400452980121071_3031482424269999733_n.jpg
 ---
 
+Past and present dogs bread through Kabana Kennels.
