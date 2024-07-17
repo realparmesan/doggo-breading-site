@@ -13,7 +13,7 @@ banner:
 features:
   - title: What we provide
     content: Kabana Kennels provides top of the line vet nurse quality care
-    image: /images/IMG_4374.jpeg
+    image: /images/IMG_6154.jpeg
     bulletpoints:
       - 'Health tested breeding dogs '
       - Carefully selected bloodlines and genetics
