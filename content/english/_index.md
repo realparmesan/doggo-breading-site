@@ -12,11 +12,11 @@ banner:
     link: /contact
 features:
   - title: What we provide
-    content: Kabana Kennels proves top of the line care and quality
-    image: /images/312244476_2400452980121071_3031482424269999733_n.jpg
+    content: Kabana Kennels provides top of the line vet nurse quality care
+    image: /images/IMG_4374.jpeg
     bulletpoints:
-      - Top quality breeding lines
-      - Dog live in amazing scenary
+      - 'Health tested breeding dogs '
+      - Carefully selected bloodlines and genetics
     button:
       label: Get Started Now
       link: '#'
