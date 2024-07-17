@@ -1,12 +1,12 @@
 ---
 banner:
   title: >-
-    Breeding Tail-Wagging Companions in the Heart of New Zealand's Coastal
-    Beauty
+    Ethical breeder of Brittany's, Red Golden Retrievers and English Springer
+    Spaniels. Bred and raised on the beautiful Mahia Peninsula
   content: >-
-    Premier New Zealand dog breeder with unique pedigree supplying pups all
-    across New Zealand.
-  image: /images/beach-mahia.png
+    All our litters are raised through an ENS program proving them to be
+    excellent hunters, pets and explosive detector dogs 
+  image: /images/5E4F9234-D155-4818-96FC-B44EBD330F14.jpeg
   button:
     label: Get in contact
     link: /contact
