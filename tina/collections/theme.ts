@@ -2,7 +2,7 @@ import { Collection } from "tinacms";
 
 const Theme: Collection = {
   name: "theme",
-  label: "Theme Configuration",
+  label: "(Meta) Theme Configuration",
   path: "data",
   match: {
     include: "theme*",
