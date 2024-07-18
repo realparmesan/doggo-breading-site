@@ -32,23 +32,32 @@ const Theme: Collection = {
                   name: "primary",
                   label: "primary",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "body",
                   label: "body",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "border",
                   label: "border",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "theme_light",
-                  label: "Light theme colour",
+                  label: "Theme's light colour",
                   required: true,
                   ui: {
                     component: 'color',
@@ -57,7 +66,7 @@ const Theme: Collection = {
                 {
                   type: "string",
                   name: "theme_dark",
-                  label: "Dark theme colour",
+                  label: "Theme's Dark colour",
                   required: true,
                   ui: {
                     component: 'color',
@@ -65,11 +74,46 @@ const Theme: Collection = {
                 },
               ]
             },
+            {
+              type: "object",
+              name: "text_color",
+              label: "Text Colours",
+              required: true,
+              fields: [
+                {
+                  type: "string",
+                  name: "default",
+                  label: "default",
+                  required: true,
+                  ui: {
+                    component: 'color',
+                  }
+                },
+                {
+                  type: "string",
+                  name: "dark",
+                  label: "dark",
+                  required: true,
+                  ui: {
+                    component: 'color',
+                  }
+                },
+                {
+                  type: "string",
+                  name: "light",
+                  label: "light",
+                  required: true,
+                  ui: {
+                    component: 'color',
+                  }
+                }
+              ]
+            },
           ]
         },
         {
           type: "object",
-          name: "theme_color",
+          name: "darkmode",
           label: "Darkmode Theme",
           required: true,
           fields: [
@@ -84,23 +128,32 @@ const Theme: Collection = {
                   name: "primary",
                   label: "primary",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "body",
                   label: "body",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "border",
                   label: "border",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "theme_light",
-                  label: "Light theme colour",
+                  label: "Theme's light colour",
                   required: true,
                   ui: {
                     component: 'color',
@@ -109,12 +162,47 @@ const Theme: Collection = {
                 {
                   type: "string",
                   name: "theme_dark",
-                  label: "Dark theme colour",
+                  label: "Theme's dark colour",
                   required: true,
                   ui: {
                     component: 'color',
                   }
                 },
+              ]
+            },
+            {
+              type: "object",
+              name: "text_color",
+              label: "Text Colours",
+              required: true,
+              fields: [
+                {
+                  type: "string",
+                  name: "default",
+                  label: "default",
+                  required: true,
+                  ui: {
+                    component: 'color',
+                  }
+                },
+                {
+                  type: "string",
+                  name: "dark",
+                  label: "dark",
+                  required: true,
+                  ui: {
+                    component: 'color',
+                  }
+                },
+                {
+                  type: "string",
+                  name: "light",
+                  label: "light",
+                  required: true,
+                  ui: {
+                    component: 'color',
+                  }
+                }
               ]
             },
           ]
