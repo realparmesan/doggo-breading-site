@@ -6,7 +6,7 @@ const Params: Collection = {
   path: "config/_default",
   match: {
     include: "params*",
-  } ,
+  },
   format: "toml",
   fields: [
     {
