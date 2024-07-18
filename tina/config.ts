@@ -5,7 +5,7 @@ import Homepage from "./collections/homepage";
 import References from "./collections/references";
 import Gallery from "./collections/gallery";
 import Theme from "./collections/theme";
-
+import Params from "./collections/params";
 
 export default defineConfig({
   clientId: process.env.TINA_CLIENT_ID!,
@@ -25,6 +25,6 @@ export default defineConfig({
     },
   },
   schema: {
-    collections: [Homepage, References, Sale, Gallery, AboutUs, Theme],
+    collections: [Homepage, References, Sale, Gallery, AboutUs, Theme, Params],
   },
 });
