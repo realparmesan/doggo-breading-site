@@ -61,6 +61,52 @@ const Theme: Collection = {
             },
           ]
         },
+        {
+          type: "object",
+          name: "theme_color",
+          label: "Darkmode Theme",
+          required: true,
+          fields: [
+            {
+              type: "object",
+              name: "theme_color",
+              label: "Darkmode Colours",
+              required: true,
+              fields: [
+                {
+                  type: "string",
+                  name: "primary",
+                  label: "primary",
+                  required: true,
+                },
+                {
+                  type: "string",
+                  name: "body",
+                  label: "body",
+                  required: true,
+                },
+                {
+                  type: "string",
+                  name: "border",
+                  label: "border",
+                  required: true,
+                },
+                {
+                  type: "string",
+                  name: "theme_light",
+                  label: "Light theme colour",
+                  required: true,
+                },
+                {
+                  type: "string",
+                  name: "theme_dark",
+                  label: "Dark theme colour",
+                  required: true,
+                },
+              ]
+            },
+          ]
+        },
       ],
     },
     {
