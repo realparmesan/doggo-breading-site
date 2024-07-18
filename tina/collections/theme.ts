@@ -50,12 +50,18 @@ const Theme: Collection = {
                   name: "theme_light",
                   label: "Light theme colour",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "theme_dark",
                   label: "Dark theme colour",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
               ]
             },
@@ -96,12 +102,18 @@ const Theme: Collection = {
                   name: "theme_light",
                   label: "Light theme colour",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
                 {
                   type: "string",
                   name: "theme_dark",
                   label: "Dark theme colour",
                   required: true,
+                  ui: {
+                    component: 'color',
+                  }
                 },
               ]
             },
