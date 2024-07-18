@@ -4,6 +4,7 @@ import AboutUs from "./collections/about-us";
 import Homepage from "./collections/homepage";
 import References from "./collections/references";
 import Gallery from "./collections/gallery";
+import Theme from "./collections/theme";
 
 
 export default defineConfig({
@@ -24,6 +25,6 @@ export default defineConfig({
     },
   },
   schema: {
-    collections: [Homepage, References, Sale, Gallery, AboutUs,],
+    collections: [Homepage, References, Sale, Gallery, AboutUs, Theme],
   },
 });
