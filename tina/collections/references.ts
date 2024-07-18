@@ -2,7 +2,7 @@ import { Collection } from "tinacms";
 
 const References: Collection = {
   name: "references",
-  label: "References (Homepage)",
+  label: "(Homepage) References",
   path: "content/english/sections",
   match: {
     include: "*testimonial*",
