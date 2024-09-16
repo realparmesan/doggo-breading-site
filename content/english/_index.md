@@ -4,9 +4,9 @@ banner:
     Ethical breeder of Brittany's, Red Golden Retrievers and English Springer
     Spaniels. Bred and raised on the beautiful Mahia Peninsula
   content: >-
-    All our litters are raised through an ENS program proving them to be
-    excellent hunters, pets and explosive detector dogs 
-  image: /images/5E4F9234-D155-4818-96FC-B44EBD330F14.jpeg
+    All our litters are raised through an ENS handling and exposure program
+    proving them to be excellent hunters, pets and explosive detector dogs 
+  image: ''
   button:
     label: Get in contact
     link: /contact
