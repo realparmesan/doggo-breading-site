@@ -20,4 +20,4 @@ categories:
 
 'Pepper' joined us from Melbourne as a puppy in early 2024 and is already showing outstanding promise as a deer dog and is meeting all her marks. She shows a beautiful balance between having an intense drive with an 'off switch' to envy. Pepper will be campaigned in the show ring while she continues her field training and we are hopeful to have some excellent litters from her in the future.
 
-![](/images/312244476_2400452980121071_3031482424269999733_n.jpg)
+![](/images/IMG_9759.jpeg)
