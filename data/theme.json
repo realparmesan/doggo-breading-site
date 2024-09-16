@@ -9,9 +9,9 @@
         "theme_dark": "#1B3002"
       },
       "text_color": {
-        "default": "#444444",
-        "dark": "#040404",
-        "light": "#717171"
+        "default": "#000000",
+        "dark": "#000000",
+        "light": "#000000"
       }
     },
     "darkmode": {
