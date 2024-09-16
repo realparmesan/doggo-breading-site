@@ -6,7 +6,7 @@ banner:
   content: >-
     All our litters are raised through an ENS handling and exposure program
     proving them to be excellent hunters, pets and explosive detector dogs 
-  image: ''
+  image: /images/IMG_4400.jpg
   button:
     label: Get in contact
     link: /contact
