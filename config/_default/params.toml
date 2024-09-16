@@ -11,8 +11,8 @@ google_tag_manager = "G-ZMKMBMGJ9W"
 google_adsense = ""
 custom_script = ""
 copyright = "Website Developed by Chris Chester, 2024"
-favicon = "/images/kkennels-icon.png"
-logo = "/images/kkennels-logo.png"
+favicon = "/images/IMG_0072.jpeg"
+logo = "/images/IMG_0072.jpeg"
 logo_darkmode = "/images/kkennels-logodark.png"
 
 [preloader]
