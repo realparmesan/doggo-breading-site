@@ -12,11 +12,15 @@ banner:
     link: /contact
 features:
   - title: What we provide
-    content: Kabana Kennels provides top of the line vet nurse quality care
+    content: >-
+      Kabana Kennels provides top of the line vet nurse quality care to all our
+      litters and breeding dogs. Our dogs live in our farm based home and
+      puppies are raised in a purpose made set up.
     image: /images/IMG_6154.jpeg
     bulletpoints:
-      - 'Health tested breeding dogs '
-      - Carefully selected bloodlines and genetics
+      - Dogs from carefully selected bloodlines and genetics
+      - 'Puppies from health tested breeding dogs '
+      - Life time support
     button:
       label: Get Started Now
       link: '#'
